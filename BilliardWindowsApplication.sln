@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilliardWindowsApplication", "BilliardWindowsApplication\BilliardWindowsApplication.csproj", "{95D42034-873D-4D9E-8CC5-1B7A41E3554A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		CD_ROM|Mixed Platforms = CD_ROM|Mixed Platforms
+		CD_ROM|Win32 = CD_ROM|Win32
+		CD_ROM|x64 = CD_ROM|x64
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		DVD-5|Any CPU = DVD-5|Any CPU
+		DVD-5|Mixed Platforms = DVD-5|Mixed Platforms
+		DVD-5|Win32 = DVD-5|Win32
+		DVD-5|x64 = DVD-5|x64
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+		SingleImage|Any CPU = SingleImage|Any CPU
+		SingleImage|Mixed Platforms = SingleImage|Mixed Platforms
+		SingleImage|Win32 = SingleImage|Win32
+		SingleImage|x64 = SingleImage|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95D42034-873D-4D9E-8CC5-1B7A41E3554A}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{95D42034-873D-4D9E-8CC5-1B7A41E3554A}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{95D42034-873D-4D9E-8CC5-1B7A41E3554A}.CD_ROM|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{95D42034-873D-4D9E-8CC5-1B7A41E3554A}.CD_ROM|Mixed Platforms.Build.0 = Debug|Any CPU
+		{95D42034-873D-4D9E-8CC5-1B7A41E3554A}.CD_ROM|Win32.ActiveCfg = Debug|Any CPU
+		{95D42034-873D-4D9E-8CC5-1B7A41E3554A}.CD_ROM|x64.ActiveCfg = Debug|Any CPU
+		{95D42034-873D-4D9E-8CC5-1B7A41E3554A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95D42034-873D-4D9E-8CC5-1B7A41E3554A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95D42034-873D-4D9E-8CC5-1B7A41E3554A}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{95D42034-873D-4D9E-8CC5-1B7A41E3554A}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{95D42034-873D-4D9E-8CC5-1B7A41E3554A}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{95D42034-873D-4D9E-8CC5-1B7A41E3554A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{95D42034-873D-4D9E-8CC5-1B7A41E3554A}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{95D42034-873D-4D9E-8CC5-1B7A41E3554A}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{95D42034-873D-4D9E-8CC5-1B7A41E3554A}.DVD-5|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{95D42034-873D-4D9E-8CC5-1B7A41E3554A}.DVD-5|Mixed Platforms.Build.0 = Debug|Any CPU
+		{95D42034-873D-4D9E-8CC5-1B7A41E3554A}.DVD-5|Win32.ActiveCfg = Debug|Any CPU
+		{95D42034-873D-4D9E-8CC5-1B7A41E3554A}.DVD-5|x64.ActiveCfg = Debug|Any CPU
+		{95D42034-873D-4D9E-8CC5-1B7A41E3554A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95D42034-873D-4D9E-8CC5-1B7A41E3554A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95D42034-873D-4D9E-8CC5-1B7A41E3554A}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{95D42034-873D-4D9E-8CC5-1B7A41E3554A}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{95D42034-873D-4D9E-8CC5-1B7A41E3554A}.Release|Win32.ActiveCfg = Release|Any CPU
+		{95D42034-873D-4D9E-8CC5-1B7A41E3554A}.Release|x64.ActiveCfg = Release|Any CPU
+		{95D42034-873D-4D9E-8CC5-1B7A41E3554A}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{95D42034-873D-4D9E-8CC5-1B7A41E3554A}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{95D42034-873D-4D9E-8CC5-1B7A41E3554A}.SingleImage|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{95D42034-873D-4D9E-8CC5-1B7A41E3554A}.SingleImage|Mixed Platforms.Build.0 = Debug|Any CPU
+		{95D42034-873D-4D9E-8CC5-1B7A41E3554A}.SingleImage|Win32.ActiveCfg = Debug|Any CPU
+		{95D42034-873D-4D9E-8CC5-1B7A41E3554A}.SingleImage|x64.ActiveCfg = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
